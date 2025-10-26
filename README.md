@@ -1,7 +1,5 @@
 # Hi there, I'm Ogbor Faith 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
 
 I'm a passionate **Front end Developer** with experience in **HTML, CSS, Javascript and ReactJS**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
@@ -24,20 +22,11 @@ I'm a passionate **Front end Developer** with experience in **HTML, CSS, Javascr
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### Cartify APP(project_1_link)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**Cartify app** is a **web app for Cartify-App is a simple e-commerce prototype that allows users to browse products, view product details, add items to a cart, and proceed to a checkout summary** built with **React + Vite, it fetches product data from the DummyJSON API.**. You can check out the repository [here](https://github.com/ozioma23/cartify-app).
 
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
-## Get in Touch 📬
-- **[LinkedIn]**(https://www.linkedin.com/in/faithogbor/)
-- **[Twitter]**(your_twitter_profile_link)
 
 
