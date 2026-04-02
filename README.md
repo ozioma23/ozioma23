@@ -7,6 +7,13 @@ I'm a passionate **Front end Developer** with experience in **HTML, CSS, Javascr
 - I’m looking to collaborate on Interesting Projects
 - How to reach me: **faithogbor03@gmail.com**
 
+ ## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faithogbor/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ogbor_faith/)
+[![X](https://img.shields.io/badge/-Twitter(X)-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Ozeeomah)
+
+
 ## Technology Stack
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&###logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
