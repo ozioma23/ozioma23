@@ -5,9 +5,9 @@ I'm a passionate **Front end Developer** with experience in **HTML, CSS, Javascr
 
 -  I’m currently working on Building JavaScript/React web applications
 - I’m looking to collaborate on Interesting Projects
---  How to reach me: **faithogbor03@gmail.com**
+- How to reach me: **faithogbor03@gmail.com**
 
-## My Skills 
+## Technology Stack
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&###logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
