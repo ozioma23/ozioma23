@@ -1,5 +1,4 @@
-
-                                   Hi there, I'm Faith!👋
+## Hi there, I'm Faith!👋
 
 ## About Me 
 I'm a passionate **Front end Developer** with experience in **HTML, CSS, Javascript and ReactJS**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
