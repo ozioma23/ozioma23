@@ -1,20 +1,12 @@
 
-Hi 👋, I'm Eduaina!
-A passionate Developer
-🔭 I’m currently working on Building JavaScript/React web applications
-
-👯 I’m looking to collaborate on Interesting Projects
-
-👨‍💻 All of my projects are available at eduaina.com
-## Hi there, I'm Faith! 👋
+## Hi there, I'm Faith!👋
 
 ## About Me 
 I'm a passionate **Front end Developer** with experience in **HTML, CSS, Javascript and ReactJS**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
--  Currently learning: **more on front end dev skills**
--  Working on: **[projects from my learning**
+-  I’m currently working on Building JavaScript/React web applications
+- I’m looking to collaborate on Interesting Projects
 --  How to reach me: **faithogbor03@gmail.com**
-- Fun fact: **i am very Jovial**
 
 ## My Skills 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
