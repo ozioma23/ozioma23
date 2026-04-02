@@ -1,3 +1,11 @@
+
+Hi 👋, I'm Eduaina!
+A passionate Developer
+🔭 I’m currently working on Building JavaScript/React web applications
+
+👯 I’m looking to collaborate on Interesting Projects
+
+👨‍💻 All of my projects are available at eduaina.com
 ## Hi there, I'm Faith! 👋
 
 ## About Me 
